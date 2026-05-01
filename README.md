@@ -13,8 +13,8 @@ This coding project takes data from 2 data frames NHTS and NGSIM. we have been t
 ### -NHTS and NGSIM data
 
 # How to Use
-### 1.Make Sure all Coding Resources are installed into the Enviroment
-### 2.Run each coding Block in Order
+### 1. Make Sure all Coding Resources are installed into the Enviroment
+### 2. Run each coding Block in Order
 ### 3. Veryify proper trajectory number is set for different results.
 ### 4. Verify plots are Correctly displayed
 ### 5. Re Run the Idm model code block to run and test various different simulations .
